@@ -1,0 +1,15 @@
+C:\Home4\Task_dop\bin\Debug\net6.0\Task_dop.exe
+C:\Home4\Task_dop\bin\Debug\net6.0\Task_dop.deps.json
+C:\Home4\Task_dop\bin\Debug\net6.0\Task_dop.runtimeconfig.json
+C:\Home4\Task_dop\bin\Debug\net6.0\Task_dop.dll
+C:\Home4\Task_dop\bin\Debug\net6.0\Task_dop.pdb
+C:\Home4\Task_dop\obj\Debug\net6.0\Task_dop.csproj.AssemblyReference.cache
+C:\Home4\Task_dop\obj\Debug\net6.0\Task_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Home4\Task_dop\obj\Debug\net6.0\Task_dop.AssemblyInfoInputs.cache
+C:\Home4\Task_dop\obj\Debug\net6.0\Task_dop.AssemblyInfo.cs
+C:\Home4\Task_dop\obj\Debug\net6.0\Task_dop.csproj.CoreCompileInputs.cache
+C:\Home4\Task_dop\obj\Debug\net6.0\Task_dop.dll
+C:\Home4\Task_dop\obj\Debug\net6.0\refint\Task_dop.dll
+C:\Home4\Task_dop\obj\Debug\net6.0\Task_dop.pdb
+C:\Home4\Task_dop\obj\Debug\net6.0\Task_dop.genruntimeconfig.cache
+C:\Home4\Task_dop\obj\Debug\net6.0\ref\Task_dop.dll
